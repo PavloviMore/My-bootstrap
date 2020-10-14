@@ -1,0 +1,37 @@
+.wrapper{
+    min-width: 500px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+body{
+    background: lightgrey;
+}
+footer{
+    height: 200px;
+    width: auto;
+    font-size:2rem;
+    background: gray;
+    text-align: left;
+    padding: 30px;
+}
+
+/* .container {
+    padding: 2rem 0rem;
+  }
+  
+  .modal-dialog {
+    margin-top: 0rem;
+    max-width: 100%;
+    
+    .modal-content {
+      border-radius: 0rem;
+    }
+    
+    .buttons {
+      .btn {
+        margin: 0.2rem;
+      }
+    }
+  }
+   */
