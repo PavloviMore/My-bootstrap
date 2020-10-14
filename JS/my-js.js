@@ -1,3 +1,3 @@
-$(document).ready(function() {  
-    $('#cookieModal').modal('show');
+$("button").click(function(){
+    $("#cookieWindow").slideDown();
   });
